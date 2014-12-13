@@ -1,0 +1,28 @@
+{
+    "name": "disabler",
+    "title": "jQuery Disabler/Enabler",
+    "description": "jQuery plugin to disable/enable interactive elements.",
+    "keywords": [
+        "productivity",
+        "disable"
+    ],
+    "version": "0.0.1",
+    "author": {
+        "name": "Ivan Stroganov"
+    },
+    "maintainers": [
+        {
+            "name": "Ivan Stroganov",
+            "email": "apprenticedev@gmail.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "Unlicense",
+            "url": "http://choosealicense.com/licenses/unlicense/"
+        }
+    ],
+    "dependencies": {
+        "jquery": ">=1.2"
+    }
+}
